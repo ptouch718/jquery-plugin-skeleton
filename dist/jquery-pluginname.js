@@ -1,4 +1,5 @@
 /*! Plugin Name - v0.1.0 - 2014-02-13
+* https://github.com/ptouch718/jquery-plugin-skeleton
 * Copyright (c) 2014 Author Name; Licensed MIT */
 
 ;(function ($, window, document, undefined) {

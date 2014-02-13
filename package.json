@@ -1,24 +1,24 @@
 {
   "name": "jquery-pluginname",
   "title": "Plugin Name",
-  "description": "PLugin description.",
+  "description": "A simple jQuery plugin skeleton with Grunt.",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://github.com/ptouch718/jquery-plugin-skeleton",
   "author": {
     "name": "Author Name",
     "email": "author.name@address.com"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ptouch718/jquery-plugin-skeleton"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/ptouch718/jquery-plugin-skeleton/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": ""
+      "url": "https://raw.github.com/ptouch718/jquery-plugin-skeleton/master/MIT-LICENSE.txt"
     }
   ],
   "devDependencies": {

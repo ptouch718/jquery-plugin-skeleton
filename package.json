@@ -1,0 +1,30 @@
+{
+  "name": "jquery-pluginname",
+  "title": "Plugin Name",
+  "description": "PLugin description.",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "Author Name",
+    "email": "author.name@address.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-concat": "~0.3.0"
+  }
+}
